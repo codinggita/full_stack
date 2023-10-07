@@ -1,12 +1,12 @@
 ## Git & Github
 
-    - https://youtu.be/apGV9Kg7ics?si=gMucJGE7yj70ho8Q
+- https://youtu.be/apGV9Kg7ics?si=gMucJGE7yj70ho8Q
 
 ### How to Raise a Pull Request
 
-    - https://www.youtube.com/watch?v=8lGpZkjnkt4
-    - https://www.youtube.com/watch?v=8A4TsoXJOs8
-    - https://github.com/PatelNeelMahesh/mern_perp/blob/main/HowToRaisePullRequest.md
+- https://www.youtube.com/watch?v=8lGpZkjnkt4
+- https://www.youtube.com/watch?v=8A4TsoXJOs8
+- https://github.com/PatelNeelMahesh/mern_perp/blob/main/HowToRaisePullRequest.md
 
 ## List of APIs
 
