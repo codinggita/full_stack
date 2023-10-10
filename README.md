@@ -4,3 +4,8 @@
 - List of APIs
 - Angular
 - Problem Solving
+
+# Week 2
+
+- Cloud
+- JavaScript
