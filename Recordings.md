@@ -1,0 +1,7 @@
+- (10/10/23) [https://youtu.be/ytqo866K3Wo]
+- (12/10/23) Figma to React Code [https://youtu.be/qzcH2Q9o-98]
+- (14/10/23) JavaScript [https://youtu.be/NuV6rvAwdmM]
+- (16/10/23) 1st Demo Day [https://youtu.be/hLa49oM8utA]
+- (17/10/23) JavaScript Functions & Project Repo Feedback [https://youtu.be/UzkBNw2vzy8]
+- (18/10/23) Sync Up, JavaScript Control/Conditional Statements/(Local/Session)Storage [https://youtu.be/zmlGLMo8iH0]
+- (19/10/23) JS Storage (Cookie, Localstorage, Sessionstorage) [https://youtu.be/Gzo5xmB-pnE]
