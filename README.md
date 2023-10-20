@@ -9,3 +9,11 @@
 
 - Cloud
 - JavaScript
+
+# Week 3
+
+- Demo Day
+- Functions in Javascript 
+- Project Feedback
+- JavaScript Control/Conditional Statements/(Local/Session)Storage
+- JS Storage (Cookie, Localstorage, Sessionstorage)
