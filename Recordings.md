@@ -6,3 +6,4 @@
 - (18/10/23) Sync Up, JavaScript Control/Conditional Statements/(Local/Session)Storage [https://youtu.be/zmlGLMo8iH0]
 - (19/10/23) JS Storage (Cookie, Localstorage, Sessionstorage) [https://youtu.be/Gzo5xmB-pnE]
 - (20/10/23) Design for Developers, Project Updates [https://youtu.be/H3BGWSZMPqc]
+- (21/10/23) Team Introduction, JavaScript Fetch(), API [https://youtu.be/If3q_QT9M2I]
