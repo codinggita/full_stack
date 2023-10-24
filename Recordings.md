@@ -7,3 +7,4 @@
 - (19/10/23) JS Storage (Cookie, Localstorage, Sessionstorage) [https://youtu.be/Gzo5xmB-pnE]
 - (20/10/23) Design for Developers, Project Updates [https://youtu.be/H3BGWSZMPqc]
 - (21/10/23) Team Introduction, JavaScript Fetch(), API [https://youtu.be/If3q_QT9M2I]
+- (24/10/23) Postman, API Documentation, GET, POST, PUT, PATCH, DELETE [https://youtu.be/Vry9TzGA-Sk]
