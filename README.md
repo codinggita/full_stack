@@ -19,3 +19,8 @@
 - JS Storage (Cookie, Localstorage, Sessionstorage)
 - Learn to design using Figma
 - Working With APIs using Fetch
+
+# Week 4
+
+- Postman, API Documentation, GET, POST, PUT, PATCH, DELETE
+- Axios, Project Demos
