@@ -24,3 +24,6 @@
 
 - Postman, API Documentation, GET, POST, PUT, PATCH, DELETE
 - Axios, Project Demos
+- Understanding CORS, Proxy Server, Clinet vs Server Side, 
+- List of companies to work at, Why LinkedIn
+
