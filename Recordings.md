@@ -9,3 +9,4 @@
 - (21/10/23) Team Introduction, JavaScript Fetch(), API [https://youtu.be/If3q_QT9M2I]
 - (24/10/23) Postman, API Documentation, GET, POST, PUT, PATCH, DELETE [https://youtu.be/Vry9TzGA-Sk]
 - (25/10/23) Axios, Project Demos [https://youtu.be/FOQ_8o-_OWo]
+- (26/10/23) Understanding CORS, Proxy Server, Clinet vs Server Side [https://youtu.be/UxpK96nim6k]
