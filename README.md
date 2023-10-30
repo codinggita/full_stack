@@ -24,6 +24,7 @@
 
 - Postman, API Documentation, GET, POST, PUT, PATCH, DELETE
 - Axios, Project Demos
-- Understanding CORS, Proxy Server, Clinet vs Server Side, 
+- Understanding CORS, Proxy Server, Clinet vs Server Side,
 - List of companies to work at, Why LinkedIn
 - Why LinkedIn & How to Groww on LinkedIn & solving a git push error.
+- Zoo, Selecting Colors, Icons, Images & Illustrations
