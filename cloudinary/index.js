@@ -13,6 +13,7 @@ const objects = [
   },
 ];
 
+// Initialize Cloudinary 
 const cloudinary = require("cloudinary").v2;
 cloudinary.config({
   cloud_name: "cloud_name",
@@ -20,6 +21,7 @@ cloudinary.config({
   api_secret: "api_secret",
 });
 
+// Function to upload an image to Cloudinary
 const uploadImageToCloudinary = async (imagePath) => {
   try {
     const result = await cloudinary.uploader.upload(imagePath);
@@ -30,6 +32,7 @@ const uploadImageToCloudinary = async (imagePath) => {
   }
 };
 
+// Function to upload a video to Cloudinary
 const uploadVideoToCloudinary = async (videoPath) => {
   try {
     const result = await cloudinary.uploader.upload(videoPath, {
@@ -42,6 +45,7 @@ const uploadVideoToCloudinary = async (videoPath) => {
   }
 };
 
+// Map through the array and upload images and videos
 const newArray = objects.map(async (object) => {
   const imageURL = await uploadImageToCloudinary(object.image);
   const videoURL = await uploadVideoToCloudinary(object.video);
@@ -52,6 +56,7 @@ const newArray = objects.map(async (object) => {
   };
 });
 
+// To handle the async operations, you can use Promise.all
 Promise.all(newArray)
   .then((resultArray) => {
     console.log(resultArray);
