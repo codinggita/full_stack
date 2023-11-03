@@ -18,7 +18,7 @@ const video = "./videos/video.mp4";
 const uploadImage = async (react) => {
   try {
     const results = await cloudinary.uploader.upload(react);
-    // console.log("Image: ", results.secure_url);
+    console.log("Image: ", results);
     return results.secure_url;
   } catch (error) {
     console.error(error);
