@@ -28,3 +28,8 @@
 - List of companies to work at, Why LinkedIn
 - Why LinkedIn & How to Groww on LinkedIn & solving a git push error.
 - Zoo, Selecting Colors, Icons, Images & Illustrations
+
+# Week 5
+
+- Form to Submit Leetcode Recordings: [https://forms.gle/LYyMALBheePBSzU89]
+- Project Updates and Planning, Updates of Video Recoding's
