@@ -33,3 +33,4 @@
 
 - Form to Submit Leetcode Recordings: [https://forms.gle/LYyMALBheePBSzU89]
 - Project Updates and Planning, Updates of Video Recoding's
+- Frontend Introduction, React Basics, Library, Framework, Transpiler

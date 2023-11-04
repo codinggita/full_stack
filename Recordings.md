@@ -13,3 +13,4 @@
 - (27/10/23) Why LinkedIn & How to Groww on LinkedIn & solving a git push error. [https://youtu.be/Ndz0qq47Fec]
 - (29/10/23) Zoo, Selecting Colors, Icons, Images & Illustrations. [https://youtu.be/lxnq2nYXYW4]
 - (02/11/2023) Project Updates and Planning, Updates of Video Recoding's [https://youtu.be/sP0NpVhEpgM]
+- (03/11/2023) Frontend Introduction, React Basics, Library, Framework, Transpiler [https://youtu.be/QLJ5mztqT7w]
