@@ -20,3 +20,4 @@
 - (08/11/2023) [https://youtu.be/ntnje0o8nU8]
 - (09/11/2023) [https://youtu.be/bRXi_7lffXM]
 - (10/11/2023) [https://youtu.be/YoP6jK_42ng]
+- (13/11/2023) React create-react-app [https://youtu.be/B0SCM9bC4Nw]
