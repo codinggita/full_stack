@@ -50,9 +50,72 @@ They encourage programmers to stay updated on language features, industry trends
 Some quiz platforms offer adaptive learning, tailoring questions based on the participant's skill level.
 This ensures that individuals are challenged at an appropriate difficulty level.
 
+
 # existing web application which solve same problem :-
 
 1) sololearn :https://www.sololearn.com/
 2) code conquest :https://www.codeconquest.com/coding-quizzes/
 
 #screenshots
+
+![IMG-20231224-WA0005](https://github.com/ydpatel0309/full_stack/assets/91671051/8d695d90-4db0-4a26-a14b-69133bd1a185)
+![IMG-20231224-WA0007](https://github.com/ydpatel0309/full_stack/assets/91671051/e5c6488d-15be-4cae-8950-22fd37484007)
+![IMG-20231224-WA0006](https://github.com/ydpatel0309/full_stack/assets/91671051/84676148-72a0-464e-b4e2-f3f1b4db76d3)
+![IMG-20231224-WA0008](https://github.com/ydpatel0309/full_stack/assets/91671051/9f0fc930-61b0-4237-ba14-47ba3e3fd29b)
+![IMG-20231224-WA0009](https://github.com/ydpatel0309/full_stack/assets/91671051/105d8ce3-9620-404a-9fe1-0dda64e1da0e)
+
+Creating a programming quiz game involves incorporating various features to make it engaging, educational, and effective in assessing participants' coding skills. Here are some features you might consider including:
+
+1)Multiple Choice Questions:
+
+Include multiple-choice questions to test participants' knowledge of syntax, language features, and programming concepts.
+
+
+2)Coding Challenges:
+
+Incorporate coding challenges that require participants to write code to solve problems.
+Support various programming languages to cater to a broader audience.
+
+
+3)Timer and Time-Based Scoring:
+
+Implement a timer for each question or coding challenge to add a sense of urgency.
+Introduce time-based scoring to reward participants for quick and accurate responses.
+
+
+4)Difficulty Levels:
+
+Offer questions at different difficulty levels to cater to participants with varying skill levels.
+Allow participants to choose their preferred difficulty or implement adaptive difficulty based on performance.
+
+
+5)Leaderboards:
+
+Include a leaderboard to display the scores and rankings of participants.
+Foster competition and motivation by showing how participants compare to others.
+
+
+6)Progress Tracking:
+
+Provide participants with a progress tracker, indicating how many questions they've answered and how many remain.
+Offer feedback on correct and incorrect answers to facilitate learning.
+
+
+7)Feedback and Explanations:
+
+Give instant feedback on participants' answers, explaining correct solutions and highlighting common mistakes.
+Include detailed explanations for coding challenges to aid learning.
+
+
+8)Topic Variety:
+
+Cover a broad range of programming topics, including syntax, algorithms, data structures, and best practices.
+Allow participants to choose quizzes based on specific programming languages or concepts.
+
+
+9)Mobile-Friendly Design:
+
+Ensure the quiz game is accessible on various devices, including mobile phones and tablets.
+Create a responsive design for a seamless experience across different screen sizes.
+
+
