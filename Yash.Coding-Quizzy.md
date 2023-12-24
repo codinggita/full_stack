@@ -65,7 +65,8 @@ This ensures that individuals are challenged at an appropriate difficulty level.
 ![IMG-20231224-WA0009](https://github.com/ydpatel0309/full_stack/assets/91671051/105d8ce3-9620-404a-9fe1-0dda64e1da0e)
 
 
-#features
+# features :-
+
 
 
 Creating a programming quiz game involves incorporating various features to make it engaging, educational, and effective in assessing participants' coding skills. Here are some features you might consider including:
