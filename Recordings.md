@@ -29,3 +29,4 @@
 - (21/12/2023) React Clone Demo & Project Doc Review [https://youtu.be/KjyuNF9u4Z4]
 - (22/12/2023) Deploy React App to Netlify [https://youtu.be/l4CZKSiJWpM]
 - (23/12/2023) Routing using react-router-dom [https://youtu.be/OSgPLrpnq2U]
+- (25/12/2023) Project Report Review, Finalizing scope of MVP [https://youtu.be/VWLz13RTpzY]
