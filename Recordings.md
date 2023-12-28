@@ -21,3 +21,12 @@
 - (09/11/2023) [https://youtu.be/bRXi_7lffXM]
 - (10/11/2023) [https://youtu.be/YoP6jK_42ng]
 - (13/11/2023) React create-react-app [https://youtu.be/B0SCM9bC4Nw]
+
+- (17/12/2023) React create Vite [https://youtu.be/U6M534wDN4A]
+- (18/12/2023) React, MUI, Chakra UI, Styled Components [https://youtu.be/kdkUfiGXThw]
+- (19/12/2023) Working with react charting Libraries [https://youtu.be/0bZ-g1R7RVI]
+- (20/12/2023) React Project Ideas Discussion [https://youtu.be/RQL-SOIYr9U]
+- (21/12/2023) React Clone Demo & Project Doc Review [https://youtu.be/KjyuNF9u4Z4]
+- (22/12/2023) Deploy React App to Netlify [https://youtu.be/l4CZKSiJWpM]
+- (23/12/2023) Routing using react-router-dom [https://youtu.be/OSgPLrpnq2U]
+- (25/12/2023) Project Report Review, Finalizing scope of MVP [https://youtu.be/VWLz13RTpzY]
