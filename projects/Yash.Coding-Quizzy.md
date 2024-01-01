@@ -1,4 +1,4 @@
-# Poject Name :- Coding-Quizzy
+# Poject Name :- DevDual
 
 # Problem solved by this Project :- 
 Quizzes based on coding and concepts of programming languages can be effective in addressing various challenges and goals in the field of programming education and skill development. Here are some common problems that these quizzes can help solve:
