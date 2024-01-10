@@ -30,3 +30,4 @@
 - (22/12/2023) Deploy React App to Netlify [https://youtu.be/l4CZKSiJWpM]
 - (23/12/2023) Routing using react-router-dom [https://youtu.be/OSgPLrpnq2U]
 - (25/12/2023) Project Report Review, Finalizing scope of MVP [https://youtu.be/VWLz13RTpzY]
+- (10/01/2024) UseState, UseEffect, React Lifecycles [https://youtu.be/P0-WE6UA-9U]
